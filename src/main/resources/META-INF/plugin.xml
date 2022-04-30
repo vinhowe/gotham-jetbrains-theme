@@ -1,0 +1,14 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <id>vin.howe.themeGotham</id>
+    <name>Gotham Theme</name>
+    <vendor url="https://howe.vin">Vin Howe</vendor>
+
+    <idea-version since-build="191.0"/>
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="0587e09e-aecb-49c3-b2f0-d1a2b951a6b4" path="/gotham.theme.json"/>
+    </extensions>
+</idea-plugin>

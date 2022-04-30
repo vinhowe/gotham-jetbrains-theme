@@ -1,0 +1,33 @@
+{
+  "name": "gotham",
+  "dark": true,
+  "author": "Vin Howe",
+  "editorScheme": "/gotham.xml",
+  "ui": {
+    "*": {
+      "acceleratorSelectionForeground": "",
+      "background": "#202b35",
+      "borderColor": "#1F2934",
+      "foreground": "#98d1ce",
+      "inactiveBackground": "#161D24",
+      "inactiveForeground": "#696d81",
+      "lineSeparatorColor": "#1F2934",
+      "selectionBackgroundInactive": "#1A3842",
+      "selectionBackground": "#0c3040",
+      "selectionForeground": "#98d1ce",
+      "selectionInactiveBackground": "#0b2d3b",
+      "separatorColor": "#1F2934"
+    },
+    "Button": {
+      "startBackground": "#05111D",
+      "endBackground": "#05111D"
+    },
+    "EditorTabs": {
+      "borderColor": "#081826",
+      "underlineColor": "#0a0f14",
+      "inactiveUnderlineColor": "#0a0f14",
+      "underlinedTabBackground": "#0a0f14",
+      "hoverMaskColor": "#05111D"
+    }
+  }
+}
