@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+## [0.0.4]
+- Clean up colors to make things more like VS Code theme
+- Change name in theme selector ("gotham" -> "Gotham")
+
 ## [0.0.3]
 - Add logo
 
