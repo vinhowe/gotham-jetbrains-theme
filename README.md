@@ -1,4 +1,4 @@
-# Gotham
+# Gotham Theme
 
 <!-- Plugin description -->
 
