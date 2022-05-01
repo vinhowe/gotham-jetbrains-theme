@@ -1,5 +1,7 @@
 # Gotham Theme
 
+<img src=".github/readme/pycharm-promo.png" style="width: 700px;"></img>
+
 <!-- Plugin description -->
 
 > It's the colorscheme we set that defines us. (Batman)
