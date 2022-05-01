@@ -604,8 +604,8 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="FF6667" />
-        <option name="ERROR_STRIPE_COLOR" value="FF0000" />
+        <option name="EFFECT_COLOR" value="f44747" />
+        <option name="ERROR_STRIPE_COLOR" value="f44747" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -614,7 +614,7 @@
         <option name="BACKGROUND" value="171717" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="C7C7FF" />
+        <option name="EFFECT_COLOR" value="8c6b2c" />
       </value>
     </option>
     <option name="First symbol in list">
@@ -833,8 +833,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3C3C57" />
-        <option name="ERROR_STRIPE_COLOR" value="CCCCFF" />
+        <option name="BACKGROUND" value="0c3040" />
+        <option name="ERROR_STRIPE_COLOR" value="8c6b2c" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -845,8 +845,8 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="343434" />
-        <option name="ERROR_STRIPE_COLOR" value="FFFFCC" />
+        <option name="EFFECT_COLOR" value="6796e6" />
+        <option name="ERROR_STRIPE_COLOR" value="6796e6" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -1673,15 +1673,14 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5F5F00" />
-        <option name="ERROR_STRIPE_COLOR" value="00FF00" />
+        <option name="BACKGROUND" value="8c6b2c" />
+        <option name="ERROR_STRIPE_COLOR" value="8c6b2c" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="C7C7FF" />
         <option name="FONT_TYPE" value="3" />
-        <option name="ERROR_STRIPE_COLOR" value="FF" />
       </value>
     </option>
     <option name="TYPEDEF">
@@ -1698,14 +1697,14 @@
       <value>
         <option name="BACKGROUND" value="4A3F10" />
         <option name="EFFECT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="98D1CE" />
-        <option name="ERROR_STRIPE_COLOR" value="FFFF00" />
+        <option name="EFFECT_COLOR" value="cd9731" />
+        <option name="ERROR_STRIPE_COLOR" value="cd9731" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="472C47" />
-        <option name="ERROR_STRIPE_COLOR" value="FFCDFF" />
+        <option name="ERROR_STRIPE_COLOR" value="8c6b2c" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
