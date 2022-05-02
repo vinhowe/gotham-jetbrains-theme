@@ -2,7 +2,7 @@
 
 # Gotham Theme Changelog
 
-## [Unreleased]
+## [0.0.5]
 - Fix colors for constants, globals
 
 ## [0.0.4]
