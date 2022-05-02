@@ -114,7 +114,7 @@
     </option>
     <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="D3EBE9" />
+        <option name="FOREGROUND" value="888BA5" />
       </value>
     </option>
     <option name="COFFEESCRIPT.HEREDOC_CONTENT">
@@ -462,7 +462,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="D3EBE9" />
+        <option name="FOREGROUND" value="888BA5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -946,7 +946,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="D3EBE9" />
+        <option name="FOREGROUND" value="888BA5" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1033,7 +1033,7 @@
     </option>
     <option name="OC.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="D3EBE9" />
+        <option name="FOREGROUND" value="888BA5" />
       </value>
     </option>
     <option name="OC.KEYWORD">
@@ -1047,11 +1047,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-<!--    <option name="OC.LOCAL_VARIABLE">-->
-<!--      <value>-->
-<!--        <option name="FOREGROUND" value="D3EBE9" />-->
-<!--      </value>-->
-<!--    </option>-->
+    <option name="OC.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="D3EBE9" />
+      </value>
+    </option>
     <option name="OC.MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="EDB54B" />
@@ -1341,7 +1341,7 @@
     </option>
     <option name="RUBY_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="D3EBE9" />
+        <option name="FOREGROUND" value="888BA5" />
       </value>
     </option>
     <option name="RUBY_CONSTANT_DECLARATION">
