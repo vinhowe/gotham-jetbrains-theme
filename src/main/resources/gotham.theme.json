@@ -26,8 +26,7 @@
       "borderColor": "#081826",
       "underlineColor": "#0a0f14",
       "inactiveUnderlineColor": "#0a0f14",
-      "underlinedTabBackground": "#0a0f14",
-      "hoverMaskColor": "#05111D"
+      "underlinedTabBackground": "#0a0f14"
     }
   }
 }
