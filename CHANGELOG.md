@@ -3,6 +3,7 @@
 # Gotham Theme Changelog
 
 ## [Unreleased]
+- Fix colors for constants, globals
 
 ## [0.0.4]
 - Clean up colors to make things more like VS Code theme
